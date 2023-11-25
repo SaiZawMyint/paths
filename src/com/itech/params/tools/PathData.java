@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PathData<E> implements Serializable {
+public class PathData implements Serializable {
 	/**
      * <h2> serialVersionUID</h2>
      * <p>

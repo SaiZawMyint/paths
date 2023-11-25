@@ -1,4 +1,4 @@
-package com.itech.params.tools;
+package com.itech.tools.path.tools;
 
 public class Constants {
 

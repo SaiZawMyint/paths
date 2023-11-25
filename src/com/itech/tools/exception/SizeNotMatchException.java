@@ -1,4 +1,4 @@
-package com.itech.params.exception;
+package com.itech.tools.exception;
 
 public class SizeNotMatchException extends RuntimeException {
 

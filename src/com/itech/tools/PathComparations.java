@@ -1,8 +1,8 @@
-package com.itech.params;
+package com.itech.tools;
 
-import com.itech.params.exception.SizeNotMatchException;
-import com.itech.params.tools.Path;
-import com.itech.params.tools.PathData;
+import com.itech.tools.exception.SizeNotMatchException;
+import com.itech.tools.path.tools.Path;
+import com.itech.tools.path.tools.PathData;
 
 /**
  * <h2>PathComparations Class</h2>

@@ -1,4 +1,4 @@
-package com.itech.params.tools;
+package com.itech.tools.path.tools;
 
 /**
  * <h2> TYPE Class</h2>
